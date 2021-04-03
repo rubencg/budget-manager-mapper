@@ -20,3 +20,4 @@
 /Users/rcardenas/Documents/projects/temp/budget-manager-mapper/bin/Debug/net5.0/jsons/expense-categories.json
 /Users/rcardenas/Documents/projects/temp/budget-manager-mapper/bin/Debug/net5.0/jsons/income-categories.json
 /Users/rcardenas/Documents/projects/temp/budget-manager-mapper/bin/Debug/net5.0/jsons/transfers.json
+/Users/rcardenas/Documents/projects/temp/budget-manager-mapper/bin/Debug/net5.0/jsons/expenses.json

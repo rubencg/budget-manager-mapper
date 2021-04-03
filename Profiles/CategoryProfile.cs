@@ -17,7 +17,7 @@ namespace budget_manager_mapper.Profiles
                 // .ForMember(dest => dest.Subcategories, opt => opt.MapFrom(s => s.Subcategories.Select(c => c.Name).ToArray()));
         }
 
-        public string GetImage(string categoryName){
+        public static string GetImage(string categoryName){
             switch (categoryName)
             {
                 case "Servicios": 
