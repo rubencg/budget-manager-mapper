@@ -18,6 +18,7 @@ namespace budget_manager_mapper.Procesors
                 cfg.AddProfile<CategoryProfile>();
                 cfg.AddProfile<TransferProfile>();
                 cfg.AddProfile<ExpenseProfile>();
+                cfg.AddProfile<IncomeProfile>();
             });
             _mapper = config.CreateMapper();
         }

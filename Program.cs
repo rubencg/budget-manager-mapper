@@ -18,7 +18,8 @@ namespace budget_manager_mapper
             // A partir de aqui es la migracion
             // categoryProcessor.processFile<AccountIn, AccountOut>("jsons/accounts.json", "accounts-to-import.json");
             // categoryProcessor.processFile<TransferIn, TransferOut>("jsons/transfers.json", "transfers-to-import.json");
-            categoryProcessor.processFile<ExpenseIn, ExpenseOut>("jsons/expenses.json", "expenses-to-import.json");
+            // categoryProcessor.processFile<ExpenseIn, ExpenseOut>("jsons/expenses.json", "expenses-to-import.json");
+            categoryProcessor.processFile<IncomeIn, IncomeOut>("jsons/incomes.json", "incomes-to-import.json");
             
         }
     }
