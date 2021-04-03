@@ -1,0 +1,18 @@
+[
+    {
+      "id": 1,
+      "img": "assets/imgs/incomes/png/profits.png",
+      "name": "Salario"
+    },
+    {
+      "id": 2,
+      "img": "assets/imgs/incomes/png/favorite.png",
+      "name": "Bono"
+    },
+    {
+      "id": 3,
+      "img": "assets/imgs/incomes/png/signs.png",
+      "name": "Otros"
+    }
+  ]
+  

@@ -1,0 +1,194 @@
+{
+  "-Kc08K-i6rbuNEpxO0": {
+    "currentBalance": 28102.09999999999,
+    "image": "money-bill",
+    "sumsToMonthlyBudget": "true",
+    "name": "Debito Ruben",
+    "accountType": { "name": "Debito" },
+    "color": "#4287f5"
+  },
+  "-Kc08K-i6rbuNEpxO1": {
+    "currentBalance": 78000.45000000001,
+    "image": "money-bill",
+    "sumsToMonthlyBudget": "false",
+    "name": "Sarahi Banregio",
+    "accountType": { "name": "Debito" },
+    "color": "#4287f5"
+  },
+  "-Kc08K-i6rbuNEpxO2": {
+    "currentBalance": 7325.889999999998,
+    "image": "money-bill",
+    "sumsToMonthlyBudget": "true",
+    "name": "Debito Sarahi",
+    "accountType": { "name": "Debito" },
+    "color": "#4287f5"
+  },
+  "-Kc08K-i6rbuNEpxO3": {
+    "currentBalance": 211.0,
+    "image": "money-bill",
+    "sumsToMonthlyBudget": "true",
+    "name": "Efectivo Sarahi",
+    "accountType": { "name": "Efectivo" },
+    "color": "#4287f5"
+  },
+  "-Kc08K-i6rbuNEpxO4": {
+    "currentBalance": 1670.0,
+    "image": "money-bill",
+    "sumsToMonthlyBudget": "true",
+    "name": "Efectivo Ruben",
+    "accountType": { "name": "Efectivo" },
+    "color": "#4287f5"
+  },
+  "-Kc08K-i6rbuNEpxO5": {
+    "currentBalance": 210.97999999999956,
+    "image": "money-bill",
+    "sumsToMonthlyBudget": "false",
+    "name": "Debito Santander Ruben",
+    "accountType": { "name": "Debito" },
+    "color": "#4287f5"
+  },
+  "-Kc08K-i6rbuNEpxO6": {
+    "currentBalance": 10599.900000000009,
+    "image": "money-bill",
+    "sumsToMonthlyBudget": "false",
+    "name": "Ahorro Casa Sarahi",
+    "accountType": { "name": "Ahorros Sarahi" },
+    "color": "#4287f5"
+  },
+  "-Kc08K-i6rbuNEpxO7": {
+    "currentBalance": 6000.0,
+    "image": "money-bill",
+    "sumsToMonthlyBudget": "false",
+    "name": "Tikitchen",
+    "accountType": { "name": "Ahorros Sarahi" },
+    "color": "#4287f5"
+  },
+  "-Kc08K-i6rbuNEpxO8": {
+    "currentBalance": 2550.0,
+    "image": "money-bill",
+    "sumsToMonthlyBudget": "false",
+    "name": "Ahorro Ruben Laptop :P",
+    "accountType": { "name": "Ahorros Ruben" },
+    "color": "#4287f5"
+  },
+  "-Kc08K-i6rbuNEpxO9": {
+    "currentBalance": 63000.0,
+    "image": "money-bill",
+    "sumsToMonthlyBudget": "false",
+    "name": "Ahorro Carro Ruben",
+    "accountType": { "name": "Ahorros Ruben" },
+    "color": "#4287f5"
+  },
+  "-Kc08K-i6rbuNEpxO10": {
+    "currentBalance": 500.0,
+    "image": "money-bill",
+    "sumsToMonthlyBudget": "false",
+    "name": "Imprevistos Efectivo",
+    "accountType": { "name": "Efectivo" },
+    "color": "#4287f5"
+  },
+  "-Kc08K-i6rbuNEpxO11": {
+    "currentBalance": 481.41999999999996,
+    "image": "money-bill",
+    "sumsToMonthlyBudget": "false",
+    "name": "Ahorro Inversion Sarahi",
+    "accountType": { "name": "Ahorros Sarahi" },
+    "color": "#4287f5"
+  },
+  "-Kc08K-i6rbuNEpxO12": {
+    "currentBalance": 92200.0,
+    "image": "money-bill",
+    "sumsToMonthlyBudget": "false",
+    "name": "Ahorro Bebe",
+    "accountType": { "name": "Ahorros Ruben" },
+    "color": "#4287f5"
+  },
+  "-Kc08K-i6rbuNEpxO13": {
+    "currentBalance": 43600.0,
+    "image": "money-bill",
+    "sumsToMonthlyBudget": "false",
+    "name": "Imprevistos",
+    "accountType": { "name": "Ahorros Ruben" },
+    "color": "#4287f5"
+  },
+  "-Kc08K-i6rbuNEpxO14": {
+    "currentBalance": 3000.0,
+    "image": "money-bill",
+    "sumsToMonthlyBudget": "false",
+    "name": "Universidad para las bendis",
+    "accountType": { "name": "Ahorros Ruben" },
+    "color": "#4287f5"
+  },
+  "-Kc08K-i6rbuNEpxO15": {
+    "currentBalance": -399.0,
+    "image": "money-bill",
+    "sumsToMonthlyBudget": "true",
+    "name": "Sarahi Credito",
+    "accountType": { "name": "Credito" },
+    "color": "#4287f5"
+  },
+  "-Kc08K-i6rbuNEpxO16": {
+    "currentBalance": 0.0,
+    "image": "money-bill",
+    "sumsToMonthlyBudget": "true",
+    "name": "Ruben Credito",
+    "accountType": { "name": "Credito" },
+    "color": "#4287f5"
+  },
+  "-Kc08K-i6rbuNEpxO17": {
+    "currentBalance": 114.0,
+    "image": "money-bill",
+    "sumsToMonthlyBudget": "false",
+    "name": "Scotiabank Casa",
+    "accountType": { "name": "Debito" },
+    "color": "#4287f5"
+  },
+  "-Kc08K-i6rbuNEpxO18": {
+    "currentBalance": -16415.799999999996,
+    "image": "money-bill",
+    "sumsToMonthlyBudget": "true",
+    "name": "Ruben Banamex Credito",
+    "accountType": { "name": "Credito" },
+    "color": "#4287f5"
+  },
+  "-Kc08K-i6rbuNEpxO19": {
+    "currentBalance": 37000.0,
+    "image": "money-bill",
+    "sumsToMonthlyBudget": "false",
+    "name": "Ahorro vacaciones Ruben",
+    "accountType": { "name": "Ahorros Ruben" },
+    "color": "#4287f5"
+  },
+  "-Kc08K-i6rbuNEpxO20": {
+    "currentBalance": 8918.630000000005,
+    "image": "money-bill",
+    "sumsToMonthlyBudget": "false",
+    "name": "Ahorro Infonavit",
+    "accountType": { "name": "Ahorros Ruben" },
+    "color": "#4287f5"
+  },
+  "-Kc08K-i6rbuNEpxO21": {
+    "currentBalance": 16891.5,
+    "image": "money-bill",
+    "sumsToMonthlyBudget": "false",
+    "name": "Ahorro Casa Ruben (oro)",
+    "accountType": { "name": "Ahorros Ruben" },
+    "color": "#4287f5"
+  },
+  "-Kc08K-i6rbuNEpxO22": {
+    "currentBalance": 0.11999999999534339,
+    "image": "money-bill",
+    "sumsToMonthlyBudget": "false",
+    "name": "Ahorro Sarahi Infonavit",
+    "accountType": { "name": "Ahorros Sarahi" },
+    "color": "#4287f5"
+  },
+  "-Kc08K-i6rbuNEpxO23": {
+    "currentBalance": 300.0,
+    "image": "money-bill",
+    "sumsToMonthlyBudget": "false",
+    "name": "Ahorros Ruben Disney y otros",
+    "accountType": { "name": "Ahorros Ruben" },
+    "color": "#4287f5"
+  }
+}

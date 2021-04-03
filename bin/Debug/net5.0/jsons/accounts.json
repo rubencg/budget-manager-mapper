@@ -1,0 +1,170 @@
+[
+    {
+      "currentBalance" : 28102.09999999999,
+      "img" : "assets/imgs/accounts/png/money-1.png",
+      "isSummable" : true,
+      "name" : "Debito Ruben",
+      "type" : 1
+    },
+    {
+      "currentBalance" : 78000.45000000001,
+      "img" : "assets/imgs/accounts/png/money.png",
+      "isSummable" : false,
+      "name" : "Sarahi Banregio",
+      "type" : 1
+    },
+    {
+      "currentBalance" : 7325.889999999998,
+      "img" : "assets/imgs/accounts/png/money.png",
+      "isSummable" : true,
+      "name" : "Debito Sarahi",
+      "type" : 1
+    },
+    {
+      "currentBalance" : 211,
+      "img" : "assets/imgs/accounts/png/wallet-1.png",
+      "isSummable" : true,
+      "name" : "Efectivo Sarahi",
+      "type" : 2
+    },
+    {
+      "currentBalance" : 1670,
+      "img" : "assets/imgs/accounts/png/coins.png",
+      "isSummable" : true,
+      "name" : "Efectivo Ruben",
+      "type" : 2
+    },
+    {
+      "currentBalance" : 210.97999999999956,
+      "img" : "assets/imgs/accounts/png/money-2.png",
+      "isSummable" : false,
+      "name" : "Debito Santander Ruben",
+      "type" : 1
+    },
+    {
+      "currentBalance" : 10599.900000000009,
+      "img" : "assets/imgs/accounts/png/008-safebox.png",
+      "isSummable" : false,
+      "name" : "Ahorro Casa Sarahi",
+      "type" : 5
+    },
+    {
+      "currentBalance" : 6000,
+      "img" : "assets/imgs/accounts/png/011-piggy-bank-1.png",
+      "isSummable" : false,
+      "name" : "Tikitchen",
+      "type" : 5
+    },
+    {
+      "currentBalance" : 2550,
+      "img" : "assets/imgs/accounts/png/wallet-2.png",
+      "isSummable" : false,
+      "name" : "Ahorro Ruben Laptop :P",
+      "type" : 4
+    },
+    {
+      "currentBalance" : 63000,
+      "img" : "assets/imgs/accounts/png/008-safebox.png",
+      "isSummable" : false,
+      "name" : "Ahorro Carro Ruben",
+      "type" : 4
+    },
+    {
+      "currentBalance" : 500,
+      "img" : "assets/imgs/accounts/png/009-bank.png",
+      "isSummable" : false,
+      "name" : "Imprevistos Efectivo",
+      "type" : 2
+    },
+    {
+      "currentBalance" : 481.41999999999996,
+      "img" : "assets/imgs/accounts/png/001-construction.png",
+      "isSummable" : false,
+      "name" : "Ahorro Inversion Sarahi",
+      "type" : 5
+    },
+    {
+      "currentBalance" : 92200,
+      "img" : "assets/imgs/accounts/png/007-piggy-bank-2.png",
+      "isSummable" : false,
+      "name" : "Ahorro Bebe",
+      "type" : 4
+    },
+    {
+      "currentBalance" : 43600,
+      "img" : "assets/imgs/accounts/png/010-piggy-bank.png",
+      "isSummable" : false,
+      "name" : "Imprevistos",
+      "type" : 4
+    },
+    {
+      "currentBalance" : 3000,
+      "img" : "assets/imgs/accounts/png/wallet.png",
+      "isSummable" : false,
+      "name" : "Universidad para las bendis",
+      "type" : 4
+    },
+    {
+      "currentBalance" : -399,
+      "img" : "assets/imgs/accounts/png/credit-card-2.png",
+      "isSummable" : true,
+      "name" : "Sarahi Credito",
+      "type" : 3
+    },
+    {
+      "currentBalance" : 0,
+      "img" : "assets/imgs/accounts/png/business-1.png",
+      "isSummable" : true,
+      "name" : "Ruben Credito",
+      "type" : 3
+    },
+    {
+      "currentBalance" : 114,
+      "img" : "assets/imgs/accounts/png/business.png",
+      "isSummable" : false,
+      "name" : "Scotiabank Casa",
+      "type" : 1
+    },
+    {
+      "currentBalance" : -16415.799999999996,
+      "img" : "assets/imgs/accounts/png/credit-card-4.png",
+      "isSummable" : true,
+      "name" : "Ruben Banamex Credito",
+      "type" : 3
+    },
+    {
+      "currentBalance" : 37000,
+      "img" : "assets/imgs/accounts/png/money-7.png",
+      "isSummable" : false,
+      "name" : "Ahorro vacaciones Ruben",
+      "type" : 4
+    },
+    {
+      "currentBalance" : 8918.630000000005,
+      "img" : "assets/imgs/subcategories/png/house.png",
+      "isSummable" : false,
+      "name" : "Ahorro Infonavit",
+      "type" : 4
+    },
+    {
+      "currentBalance" : 16891.5,
+      "img" : "assets/imgs/subcategories/png/house.png",
+      "isSummable" : false,
+      "name" : "Ahorro Casa Ruben (oro)",
+      "type" : 4
+    },
+    {
+      "currentBalance" : 0.11999999999534339,
+      "img" : "assets/imgs/accounts/png/008-safebox.png",
+      "isSummable" : false,
+      "name" : "Ahorro Sarahi Infonavit",
+      "type" : 5
+    },
+    {
+      "currentBalance" : 300,
+      "img" : "assets/imgs/accounts/png/money-7.png",
+      "isSummable" : false,
+      "name" : "Ahorros Ruben Disney y otros",
+      "type" : 4
+    }
+  ]

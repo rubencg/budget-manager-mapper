@@ -1,0 +1,373 @@
+[
+  {
+    "img": "assets/imgs/categories/png/invoice.png",
+    "name": "Servicios",
+    "subcategories": [
+      {
+        "id": "1",
+        "img": "assets/imgs/subcategories/png/water-drop.png",
+        "name": "Agua"
+      },
+      {
+        "id": "2",
+        "img": "assets/imgs/subcategories/png/burn.png",
+        "name": "Gas"
+      },
+      {
+        "id": "3",
+        "img": "assets/imgs/subcategories/png/technology.png",
+        "name": "Telefono"
+      },
+      {
+        "id": "4",
+        "img": "assets/imgs/subcategories/png/browser.png",
+        "name": "Internet"
+      },
+      {
+        "id": "5",
+        "img": "assets/imgs/subcategories/png/television.png",
+        "name": "Television"
+      },
+      {
+        "id": "6",
+        "img": "assets/imgs/subcategories/png/light-bulb.png",
+        "name": "Luz"
+      },
+      {
+        "id": "7",
+        "img": "assets/imgs/subcategories/png/house.png",
+        "name": "Renta"
+      },
+      {
+        "id": "8",
+        "img": "assets/imgs/subcategories/png/lawn-mower.png",
+        "name": "Cortar Pasto"
+      },
+      {
+        "id": "9",
+        "img": "assets/imgs/subcategories/png/broom-1.png",
+        "name": "Limpieza en Casa"
+      },
+      {
+        "id": "10",
+        "img": "assets/imgs/subcategories/png/house.png",
+        "name": "Casa nueva"
+      }
+    ]
+  },
+  {
+    "img": "assets/imgs/categories/png/travel.png",
+    "name": "Viajes",
+    "subcategories": [
+      {
+        "id": "1",
+        "img": "assets/imgs/subcategories/png/hotel.png",
+        "name": "Hotel"
+      },
+      {
+        "id": "2",
+        "img": "assets/imgs/subcategories/png/airplane.png",
+        "name": "Aviones"
+      },
+      {
+        "id": "3",
+        "img": "assets/imgs/subcategories/png/taxi.png",
+        "name": "Renta Auto/Taxi"
+      },
+      {
+        "id": "4",
+        "img": "assets/imgs/subcategories/png/hammock.png",
+        "name": "Vacaciones"
+      }
+    ]
+  },
+  {
+    "img": "assets/imgs/categories/png/car.png",
+    "name": "Auto/Transporte",
+    "subcategories": [
+      {
+        "id": "1",
+        "img": "assets/imgs/subcategories/png/gas-station.png",
+        "name": "Gasolina"
+      },
+      {
+        "id": "2",
+        "img": "assets/imgs/subcategories/png/parking.png",
+        "name": "Estacionamiento"
+      },
+      {
+        "id": "3",
+        "img": "assets/imgs/subcategories/png/mechanic.png",
+        "name": "Servicio/Reparaciones"
+      },
+      {
+        "id": "4",
+        "img": "assets/imgs/subcategories/png/car-wash.png",
+        "name": "Limpieza"
+      },
+      {
+        "id": "5",
+        "img": "assets/imgs/subcategories/png/uber-logo.png",
+        "name": "Uber"
+      },
+      {
+        "id": "6",
+        "img": "assets/imgs/subcategories/png/car.png",
+        "name": "Pago Mensual"
+      },
+      {
+        "id": "7",
+        "img": "assets/imgs/subcategories/png/insurance.png",
+        "name": "Seguro"
+      }
+    ]
+  },
+  {
+    "img": "assets/imgs/categories/png/toast.png",
+    "name": "Comida/Salidas",
+    "subcategories": [
+      {
+        "id": "1",
+        "img": "assets/imgs/subcategories/png/groceries.png",
+        "name": "Despensa"
+      },
+      {
+        "id": "2",
+        "img": "assets/imgs/subcategories/png/coffee-cup.png",
+        "name": "Cafes"
+      },
+      {
+        "id": "3",
+        "img": "assets/imgs/subcategories/png/food-2.png",
+        "name": "Comida Rapida"
+      },
+      {
+        "id": "4",
+        "img": "assets/imgs/subcategories/png/food-1.png",
+        "name": "Restaurantes"
+      },
+      {
+        "id": "5",
+        "img": "assets/imgs/subcategories/png/beer.png",
+        "name": "Alcohol/Bares"
+      },
+      {
+        "id": "6",
+        "img": "assets/imgs/categories/png/signs.png",
+        "name": "Misc"
+      },
+      {
+        "id": "7",
+        "img": "assets/imgs/subcategories/png/video.png",
+        "name": "Cine"
+      }
+    ]
+  },
+  {
+    "img": "assets/imgs/categories/png/medical.png",
+    "name": "Salud",
+    "subcategories": [
+      {
+        "id": "1",
+        "img": "assets/imgs/subcategories/png/anesthesia.png",
+        "name": "Dentista"
+      },
+      {
+        "id": "2",
+        "img": "assets/imgs/subcategories/png/doctor.png",
+        "name": "Doctor"
+      },
+      {
+        "id": "3",
+        "img": "assets/imgs/subcategories/png/pills.png",
+        "name": "Farmacia"
+      },
+      {
+        "id": "4",
+        "img": "assets/imgs/subcategories/png/eye.png",
+        "name": "Oftalmologo"
+      },
+      {
+        "id": "5",
+        "img": "assets/imgs/subcategories/png/medical.png",
+        "name": "Seguro"
+      },
+      {
+        "id": "6",
+        "img": "assets/imgs/subcategories/png/dumbbell.png",
+        "name": "Gimnasio"
+      },
+      {
+        "id": "7",
+        "img": "assets/imgs/subcategories/png/football.png",
+        "name": "Deportes"
+      }
+    ]
+  },
+  {
+    "img": "assets/imgs/categories/png/cosmetics.png",
+    "name": "Cuidado Personal",
+    "subcategories": [
+      {
+        "id": "1",
+        "img": "assets/imgs/subcategories/png/scissors.png",
+        "name": "Cabello"
+      },
+      {
+        "id": "2",
+        "img": "assets/imgs/subcategories/png/medical-1.png",
+        "name": "Spa y masajes"
+      }
+    ]
+  },
+  {
+    "img": "assets/imgs/categories/png/commerce.png",
+    "name": "Compras",
+    "subcategories": [
+      {
+        "id": "1",
+        "img": "assets/imgs/subcategories/png/shirt.png",
+        "name": "Ropa"
+      },
+      {
+        "id": "2",
+        "img": "assets/imgs/subcategories/png/library.png",
+        "name": "Libros"
+      },
+      {
+        "id": "3",
+        "img": "assets/imgs/subcategories/png/computer.png",
+        "name": "Electronicos"
+      },
+      {
+        "id": "4",
+        "img": "assets/imgs/subcategories/png/kayak.png",
+        "name": "Hobbies"
+      },
+      {
+        "id": "5",
+        "img": "assets/imgs/subcategories/png/technology-1.png",
+        "name": "Juegos"
+      },
+      {
+        "id": "6",
+        "img": "assets/imgs/subcategories/png/football.png",
+        "name": "Deporte"
+      },
+      {
+        "id": "7",
+        "img": "assets/imgs/subcategories/png/gift.png",
+        "name": "Regalos"
+      },
+      {
+        "id": "8",
+        "img": "assets/imgs/subcategories/png/house.png",
+        "name": "Casa"
+      }
+    ]
+  },
+  {
+    "img": "assets/imgs/categories/png/church-1.png",
+    "name": "Iglesia",
+    "subcategories": [
+      {
+        "id": "1",
+        "img": "assets/imgs/subcategories/png/money.png",
+        "name": "Diezmo"
+      },
+      {
+        "id": "2",
+        "img": "assets/imgs/subcategories/png/gift.png",
+        "name": "Ofrenda"
+      },
+      {
+        "id": "3",
+        "img": "assets/imgs/subcategories/png/alphabet.png",
+        "name": "Grupo Conexion"
+      },
+      {
+        "id": "4",
+        "img": "assets/imgs/subcategories/png/hospital.png",
+        "name": "Misiones"
+      }
+    ]
+  },
+  {
+    "img": "assets/imgs/categories/png/theater.png",
+    "name": "Entretenimiento",
+    "subcategories": [
+      {
+        "id": "1",
+        "img": "assets/imgs/subcategories/png/painting-palette.png",
+        "name": "Arte"
+      },
+      {
+        "id": "2",
+        "img": "assets/imgs/subcategories/png/clapperboard.png",
+        "name": "Cine/Peliculas"
+      },
+      {
+        "id": "3",
+        "img": "assets/imgs/subcategories/png/music.png",
+        "name": "Musica"
+      },
+      {
+        "id": "4",
+        "img": "assets/imgs/subcategories/png/tickets.png",
+        "name": "Hobbies"
+      }
+    ]
+  },
+  {
+    "img": "assets/imgs/categories/png/dog.png",
+    "name": "Mascotas",
+    "subcategories": [
+      {
+        "id": "1",
+        "img": "assets/imgs/subcategories/png/dog-food.png",
+        "name": "Comida"
+      },
+      {
+        "id": "2",
+        "img": "assets/imgs/subcategories/png/bone.png",
+        "name": "Cuidados"
+      },
+      {
+        "id": "3",
+        "img": "assets/imgs/subcategories/png/bathtub.png",
+        "name": "Baño"
+      }
+    ]
+  },
+  {
+    "img": "assets/imgs/categories/png/signs.png",
+    "name": "Otros",
+    "subcategories": [
+      {
+        "id": "1",
+        "img": "assets/imgs/categories/png/signs.png",
+        "name": "Ajustes"
+      },
+      {
+        "id": "2",
+        "img": "assets/imgs/categories/png/tax.png",
+        "name": "Impuestos"
+      },
+      {
+        "id": "3",
+        "img": "assets/imgs/categories/png/faq.png",
+        "name": "Otros"
+      },
+      {
+        "id": "4",
+        "img": "assets/imgs/accounts/png/006-piggy-bank-3.png",
+        "name": "Ahorros"
+      },
+      {
+        "id": "5",
+        "img": "assets/imgs/accounts/png/002-windows.png",
+        "name": "Familias"
+      }
+    ]
+  }
+]
