@@ -2,3 +2,4 @@ files-to-import/
 jsons/
 bin/
 obj/
+.DS_Store

@@ -19,8 +19,11 @@ namespace budget_manager_mapper.Models
         [JsonProperty(PropertyName = "category")]
         public CategoryExpenseOut Category { get; set; }
         
-        [JsonProperty(PropertyName = "subcategory")]
+        [JsonProperty(PropertyName = "subCategory")]
         public string Subcategory { get; set; }
+        
+        [JsonProperty(PropertyName = "isApplied")]
+        public string IsApplied { get; set; }
 
     }
 

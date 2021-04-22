@@ -12,7 +12,7 @@ namespace budget_manager_mapper.Profiles
                 .ForMember(dest => dest.Date, opt => opt.MapFrom(src => DateTimeOffset.FromUnixTimeMilliseconds(src.Date).ToString("o")))
                 .ForMember(dest => dest.Account, opt => opt.MapFrom(src => GetTransferOutAccount(src.Account)))
                 .ForMember(dest => dest.Category, opt => opt.MapFrom(src => new CategoryExpenseOut(){
-                    Color = "#80f073",
+                    Color = CategoryProfile.GetColor(src.Category.Name),
                     Image = CategoryProfile.GetImage(src.Category.Name),
                     Name = src.Category.Name,
                 }))
