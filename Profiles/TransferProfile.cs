@@ -19,8 +19,8 @@ namespace budget_manager_mapper.Profiles
         {
             return new TransferOutAccount()
             {
-                Color = "#800080",
-                Image = "money-bill",
+                Color = AccountProfile.GetColorForAccountName(account.Name),
+                Image = AccountProfile.GetIconForAccountName(account.Name),
                 Name = account.Name
             };
         }

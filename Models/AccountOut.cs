@@ -11,7 +11,7 @@ namespace budget_manager_mapper.Models
         public string Image { get; set; }
 
         [JsonProperty(PropertyName = "sumsToMonthlyBudget")]
-        public string IsSummable { get; set; }
+        public bool IsSummable { get; set; }
 
         [JsonProperty(PropertyName = "name")]
         public string Name { get; set; }
